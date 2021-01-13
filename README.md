@@ -1,2 +1,2 @@
-# react-webgl-3d-three
+# webgl-react
 Created with CodeSandbox
